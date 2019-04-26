@@ -1,0 +1,29 @@
+.nav__main--start{
+    padding: 10px 40px;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+
+.nav__main--start strong{
+    color: #dbb4f7;
+
+}
+
+.nav__bar{
+    border-bottom: 3px solid rgba(111, 99, 119, .4) ;
+}
+
+.n__menu--color {
+    background-color: #1E152A;
+}
+
+.navbar-item {
+    color: #FFFFFF;
+}
+
+.navbar-item:hover {
+    border-radius: 20px;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px #d4d4d4;
+}
+
