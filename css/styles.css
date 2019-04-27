@@ -27,3 +27,18 @@
     text-shadow: 1px 1px 2px #d4d4d4;
 }
 
+
+.is-main-color {
+    background: rgb(30,21,42);
+    background: linear-gradient(180deg, rgba(30,21,42,1) 18%, rgba(41,20,68,1) 87%);
+}
+
+.is-secondary-color {
+    background: rgb(41,20,68);
+    background: linear-gradient(180deg, rgba(41,20,68,1) 18%, rgba(30,21,42,1) 86%);
+}
+
+
+.section__text--color {
+    color: #FFFFFF;
+}
